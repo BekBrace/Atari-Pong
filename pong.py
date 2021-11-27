@@ -1,5 +1,5 @@
 #simple pong game
-#coded by joe bek
+#coded by Amir Bekhit
 #part1 ----- getting started
 
 import turtle
